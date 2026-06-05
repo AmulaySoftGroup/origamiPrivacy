@@ -1,12 +1,14 @@
 # Privacy Policy for Origami Game
 
+**Application ID:** com.maryampeer.origami
 **Last updated: June 2026**
 
-Maryam Peer built the **Origami Game** app as a free application. This Service is provided at no cost and is intended for use as is.
+Maryam Peer built the **Origami Game** mobile application (Application ID: **com.maryampeer.origami**) as a free application. This Service is provided at no cost and is intended for use as is.
 
 This Privacy Policy explains how information may be collected, used, and disclosed when you use the Origami Game mobile application.
 
 By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+
 
 ## Information Collection and Use
 
@@ -92,4 +94,4 @@ Email: [maryampeer@gmail.com](mailto:maryampeer@gmail.com)
 
 ---
 
-This Privacy Policy applies to the Origami Game mobile application.
+This Privacy Policy applies exclusively to the Origami Game mobile application identified by the package name **com.maryampeer.origami**.
