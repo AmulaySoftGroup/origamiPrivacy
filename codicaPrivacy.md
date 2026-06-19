@@ -1,6 +1,8 @@
 Privacy Policy:
+
 BundleId: ir.hamrahacademy.codicagame
-  developer: Hamrah Academy
+developer: Hamrah Academy
+
 Codica is committed to protecting the privacy of our users, especially children, and ensuring a safe and enjoyable experience for all. This Privacy Policy outlines how we collect, use, and safeguard personal information obtained through our application.
 
 1. Information We Collect:
